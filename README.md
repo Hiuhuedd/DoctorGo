@@ -1,5 +1,5 @@
 # DoctorGo
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/Hiuhuedd/DoctorGo/blob/master/dr.go%20snapshots.jpg" width="512" >
 
 The DoctorGo software primary objective of is to provide patients with a seamless and convenient way to connect with healthcare providers: ie. access information about available clinics, book appointments with doctors and enable drug delivery.
 
