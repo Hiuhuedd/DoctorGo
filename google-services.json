@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18299896889",
+    "project_id": "drgonotificarions",
+    "storage_bucket": "drgonotificarions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18299896889:android:aea8deee81c3c6f39db9e8",
+        "android_client_info": {
+          "package_name": "com.dr.go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18299896889-ellr12srbksk45d30dn30gplsbttqr5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBURRB5X7MB1DLUp36w1NCoYdX0BKfyYB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18299896889-ellr12srbksk45d30dn30gplsbttqr5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
