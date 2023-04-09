@@ -1,12 +1,15 @@
 # DoctorGo
 The DoctorGo software primary objective of is to provide patients with a seamless and convenient way to connect with healthcare providers: ie. access information about available clinics, book appointments with doctors and enable drug delivery.
 
-============================INSTRUCTIONS FOR RUNNING APP PREVIEW====================================
+=====INSTRUCTIONS FOR RUNNING APP PREVIEW======
+
 1. Go to Google playstore/ App store and download the Expo-go application.
 2. Open the Expo-go app.
 3. Go ahead and paste this url: exp://exp.host/@hiuhu/drgo5, *in the Enter URL manually
 4. Enjoy!
-============================INSTRUCTIONS FOR RUNNING APP TESTS====================================
+
+=====INSTRUCTIONS FOR RUNNING APP TESTS=====
+
 1. Clone the repository: First, you need to clone the repository that contains the React Native Expo application code. Open your terminal and navigate to the directory where you want to store the project. Then, use the following command to clone the repository:
 git clone https://github.com/Hiuhuedd/DoctorGo.git
 
