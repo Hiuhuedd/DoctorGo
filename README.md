@@ -8,7 +8,7 @@
 1. Go to Google playstore/ App store and download the Expo-go application.
 2. Open the Expo-go app.
 3. Go ahead and paste this url: exp://exp.host/@hiuhu/drgo5, *in the Enter URL manually
-4. Enjoy!
+4. Voila!
 
 #=====INSTRUCTIONS FOR RUNNING APP TESTS=====
 
@@ -32,7 +32,7 @@ npm install -g expo-cli
 5. Once the Expo client app is installed, you can open it and load the app by selecting it from the list of available projects.
 
 Test and debug the application: With the app loaded on your device or simulator, you can test it and debug any issues that arise. You can use the Expo DevTools to view console logs and debug the app in real-time.
-That's it! With these steps, you should be able to test a React Native Expo application from this repo. Good luck!
+That's it! With these steps, you should be able to test the Expo application from this repo. Good luck!
 
 ### DoctorGo project workflow
 <img src="https://github.com/Hiuhuedd/DoctorGo/blob/master/stack%20diagram%20(1)_page-0001.jpg" width="100%" height="70%" >
