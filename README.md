@@ -34,3 +34,5 @@ npm install -g expo-cli
 Test and debug the application: With the app loaded on your device or simulator, you can test it and debug any issues that arise. You can use the Expo DevTools to view console logs and debug the app in real-time.
 That's it! With these steps, you should be able to test a React Native Expo application from code hosted on GitHub. Good luck!
 
+### DoctorGo project workflow
+<img src="https://github.com/Hiuhuedd/DoctorGo/blob/master/stack%20diagram%20(1)_page-0001.jpg" width="100%" height="70%" >
